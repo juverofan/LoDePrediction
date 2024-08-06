@@ -8,3 +8,6 @@ Sử dụng python 3: python xsmb_prediction.py
 <br>requests
 <br>colored
 <br>progressbar
+
+
+<br> Demo: https://huggingface.co/spaces/BroTeoTM/LoDePrediction
