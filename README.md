@@ -13,4 +13,4 @@ Sử dụng python 3: python xsmb_prediction.py
 <br> Demo: https://huggingface.co/spaces/BroTeoTM/LoDePrediction
 <br>
 
-<img src="https://github.com/user-attachments/assets/510c7fb4-3873-493f-ae2c-3a969e8c71dc" width="30%">
+<img src="https://github.com/user-attachments/assets/39b45b1b-1fd3-4e7a-bffc-1aba408918f6" width="30%">
